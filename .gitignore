@@ -1,0 +1,21 @@
+## general
+# Intermediate products
+*.pyc
+
+# Result dirs
+csvfiles/
+rawCoreLog/
+rawCustomLog/
+rawDetectLog/
+rawScheduleLog/
+rawWavFiles/
+fig/
+*.png
+
+## local env.
+# Intellij IDE
+.idea/
+
+## setting
+set*.py
+README.md
